@@ -1,0 +1,13 @@
+name: cv
+channels:
+  - defaults
+dependencies:
+  - pip=23.0.1
+  - python=3.9.16
+  - pip:
+      - matplotlib
+      - numpy
+      - opencv-python
+      - torch
+      - torchvision
+      - mediapipe
