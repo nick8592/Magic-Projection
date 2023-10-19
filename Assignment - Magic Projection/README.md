@@ -1,8 +1,5 @@
 # [Assignment - Magic Projection](https://jackybaltes.github.io/computer-vision/assignment_projection_magic)
 
-Name: 白偉辰, Pai Wei-Chen  
-Student ID: 61175024H
-
 ## Trick 1: Dis/appearing Coins
 
 > The simplest trick is to wave your hands over the field and make coins magically appear and/or disappear. Implement a program that tracks the hands of the magician and devise some way in which the user can add or remove coins. For example, by spreading their hands to signal a change.
