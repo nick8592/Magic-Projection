@@ -1,5 +1,8 @@
 # [Assignment - Magic Projection](https://jackybaltes.github.io/computer-vision/assignment_projection_magic)
 
+Name: 白偉辰, Pai Wei-Chen  
+Student ID: 61175024H
+
 ## Trick 1: Dis/appearing Coins
 
 > The simplest trick is to wave your hands over the field and make coins magically appear and/or disappear. Implement a program that tracks the hands of the magician and devise some way in which the user can add or remove coins. For example, by spreading their hands to signal a change.
@@ -43,7 +46,7 @@ python card.py
 
 > In this trick, the user predicts the number that will appear on a single or multiple dice. Another trick is for the user to throw a dice. In this case, the system must project three sides viewable from a dice.
 
-Use `D6 Dice - Images` dataset which has many dice images. The code can detect the position of each dices from a top-down view images, the bounding of each dice are mark with green line and corners mark with red dot. A function can generate combinations for a target_sum using numbers of dices.
+Use `D6 Dice - Images` dataset which has many dice images. The code can track the position of each dices from a top-down view images, the bounding of each dice are mark with green line and corners mark with red dot. A function can print out all combinations for a target_sum using numbers of dices.
 
 - [x] Detect dices position
 - [x] Get dices corner's coordinate
