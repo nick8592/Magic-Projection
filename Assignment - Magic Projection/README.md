@@ -1,7 +1,4 @@
-# [Assignment 1 - Magic Projection](https://jackybaltes.github.io/computer-vision/assignment_projection_magic)
-
-Name: 白偉辰, Pai Wei-Chen  
-Student ID: 61175024H
+# [Assignment - Magic Projection](https://jackybaltes.github.io/computer-vision/assignment_projection_magic)
 
 ## Trick 1: Dis/appearing Coins
 
